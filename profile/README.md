@@ -7,6 +7,10 @@
   </a>
 </p>
 
+[![Beekorea](https://img.shields.io/badge/Beekorea.org-000000?style=flat-square)](https://www.beekorea.org)
+[![LMS](https://img.shields.io/badge/LMS-444444?style=flat-square)](https://www.beekorea.org/lms)
+
+
 
 # BEE Korea의 GitHub Organization
 
