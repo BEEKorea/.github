@@ -1,11 +1,11 @@
-<p>
+<p align="center">
   <a href="https://www.beekorea.org">
     <img src="https://img.shields.io/badge/BeeKorea-Website-1E90FF?style=for-the-badge" />
-  </a>
-  <a href="https://www.beekorea.org/lms">
+  </a><a href="https://www.beekorea.org/lms">
     <img src="https://img.shields.io/badge/BeeKorea-LMS-32CD32?style=for-the-badge" />
   </a>
 </p>
+
 
 # BEE Korea의 GitHub Organization
 
