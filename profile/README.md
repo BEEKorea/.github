@@ -7,11 +7,6 @@
   </a>
 </p>
 
-[![Beekorea](https://img.shields.io/badge/Beekorea.org-000000?style=flat-square)](https://www.beekorea.org)
-[![LMS](https://img.shields.io/badge/LMS-444444?style=flat-square)](https://www.beekorea.org/lms)
-
-
-
 # BEE Korea의 GitHub Organization
 
 BEE Korea는 신학교에 갈 수 없는 교회 지도자들에게 현장에서 성경 훈련을 제공하여, 제자를 양육하고 지도자를 재생산하는 ‘이동식 신학교’입니다.
